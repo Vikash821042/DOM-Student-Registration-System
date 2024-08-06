@@ -64,19 +64,6 @@ input[type="text"] {
     border-radius: 4px;
 }
 
-input:hover{
-    /* background-color: #333; */
-border: none;
-/* background-image: linear-gradient(to right, #6253e1, #852D91, #A3A1FF);
-box-shadow: 0 4px 15px 0 rgba(126, 52, 161, 0.75); */
-    color: #333;
-    background-position: 100% 0;
-    moz-transition: all .4s ease-in-out;
-    -o-transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
-    transition: all .4s ease-in-out;
-}
-
 button {
     /* background: #28a745; */
     background-image: linear-gradient(to right, #29323c, #485563, #2b5876, #4e4376);
